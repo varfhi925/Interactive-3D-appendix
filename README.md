@@ -8,4 +8,4 @@ The figure visualises endemicity risk across:
 - for different transmission scenarios (Rh).
 - Double click an Rh value on the label to isolate a specific Rh
 - Single click an Rh value on the label to add or remove for comparison
-- Endemicity risk (Hiden undetected colonised population in year 2)
+- Endemicity risk (Hidden undetected colonised population in year 2)
