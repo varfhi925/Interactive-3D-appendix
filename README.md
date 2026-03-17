@@ -6,6 +6,6 @@ The figure visualises endemicity risk across:
 - test sensitivity
 - test specificity
 - for different transmission scenarios (Rh).
-- Double click an Rh value on the label to isolate a specific Rh
-- Single click an Rh value on the label to add or remove for comparison
+- Double click a Rh value on the label to isolate a specific Rh
+- Single click a Rh value on the label to add or remove for comparison
 - Endemicity risk (Hidden undetected colonised population in year 2)
